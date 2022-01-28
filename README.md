@@ -5,7 +5,7 @@
 ## I am a Fullstack Software Developer. Over the last ten years I have built a career teaching, writing, composing, producing and performing music. I am transitioning into Software Development to better utilize my unique skill set in today’s rapidly-changing technological landscape. My strengths lie in collaboration, communication, analysis and design.
 
 - 🔭 I’m currently working on <b>ZKLadder</b>
-- 🌱 I’m currently learning Solidity/Truffle and Recoil.
+- 🌱 I’m currently learning Typescript, Recoil, Node.js and Solidity.
 - 👯 I’m looking to collaborate on: Anything and Everything.
 - 📫 How to reach me: pbrennanmusic@gmail.com
 - 😄 Pronouns: he/him
