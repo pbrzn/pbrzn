@@ -1,3 +1,4 @@
+<img src="public/logo.png" alt="logo"/>
 ### Hi there 👋
 
 <!--
