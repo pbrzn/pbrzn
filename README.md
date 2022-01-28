@@ -14,10 +14,10 @@
 # Projects
 
 ### Cinemaddict – <a href="https://youtu.be/JGTOMgUpDwY">Demo</a> | <a href="https://github.com/pbrzn/cinemaddict">Repo</a>
-A Letterboxd-style movie rating/reviewing app. Frontend: React, Redux, JavaScript. Backend: Ruby on Rails.
+🎬 A Letterboxd-style movie rating/reviewing app. Frontend: React, Redux, JavaScript. Backend: Ruby on Rails.
 
 ### JavaScript JEOPARDY!™ – <a href="https://youtu.be/IH0U09Q0bz8">Demo</a> | <a href="https://github.com/pbrzn/js-jeopardy">Repo</a>
-A full-scale JEOPARDY!™ game. Frontend: JavaScript. Backend: Ruby on Rails.
+📚 A full-scale JEOPARDY!™ game. Frontend: JavaScript. Backend: Ruby on Rails.
 
 ### BANDBUILDER – <a href="https://youtu.be/48naaH7YaVU">Demo</a> | <a href="https://github.com/pbrzn/bandbuilder">Repo</a>
-A social networking app for musicians. Built with Ruby on Rails.
+🎸 A social networking app for musicians. Built with Ruby on Rails.
