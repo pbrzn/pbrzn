@@ -2,10 +2,10 @@
 
 # Hi There! 👋 My name is Patrick Brennan.
 
-## I am a Fullstack Software Developer. Over the last ten years I have built a career teaching, writing, composing, producing and performing music. I am transitioning into Software Development to better utilize my unique skill set in today’s rapidly-changing technological landscape. My strengths lie in collaboration, communication, analysis and design.
+## I am a Fullstack Software Developer. Over the last ten years I have built a career teaching, writing, composing, producing and performing music. I am transitioning into Software Development to better utilize my unique skill set in today’s rapidly-changing technological landscape. My strengths lie in collaboration, communication, analysis and design. I am proficient in JavaScript, React, Redux, Ruby, Ruby on Rails, SQL, PostgreSQL, SQLite, HTML and CSS.
 
 - 🔭 I’m currently working on <b>ZKLadder</b>
-- 🌱 I’m currently learning Typescript, Recoil, Node.js and Solidity.
+- 🌱 I’m currently learning Typescript, Recoil and Solidity.
 - 👯 I’m looking to collaborate on: Anything and Everything.
 - 📫 How to reach me: pbrennanmusic@gmail.com
 - 😄 Pronouns: he/him
