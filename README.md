@@ -1,4 +1,4 @@
-<img src="public/banner.png" alt="logo" width="1000px"/>
+<img src="public/banner.png" alt="logo" width="1500px"/>
 
 # Hi There! 👋 My name is Patrick Brennan.
 
