@@ -2,14 +2,12 @@
 
 # Hi There! 👋 My name is Patrick Brennan.
 
-## I am a Full Stack Software Developer. Over the last ten years I have built a career teaching, writing, composing, producing and performing music. I am transitioning into Software Development to better utilize my unique skill set in today’s rapidly-changing technological landscape. My strengths lie in collaboration, communication, analysis and design. I am proficient in JavaScript, React, Redux, Ruby, Ruby on Rails, SQL, PostgreSQL, SQLite, HTML and CSS.
+## I am a Full Stack Software Developer. My strengths lie in collaboration, communication, analysis and design. I am proficient in Java, Spring/SpringBoot, JavaScript/TypeScript, Angular, SQL, PostgreSQL, MySQL, SQL Server, Oracle, HTML and CSS.
 
-- 🔭 I’m currently working on <b>ZKLadder</b>
-- 🌱 I’m currently learning Typescript, Recoil and Solidity.
-- 👯 I’m looking to collaborate on: Anything and Everything.
-- 📫 How to reach me: pbrennanmusic@gmail.com
+- 🔭 I’m currently working on a client project for <b>Infosys</b>
+- 📫 How to reach me: patrick.brennan.dev@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a 2 1/2 year old son, and he is the most adorable thing on this planet.
+- ⚡ Fun fact: I have a 4 year old son and an 8 month old daughter, and they are the most adorable things on this planet.
 
 # Projects
 
