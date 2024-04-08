@@ -5,9 +5,9 @@
 ## I am a Full Stack Software Developer. My strengths lie in collaboration, communication, analysis and design. I am proficient in Java, Spring/SpringBoot, JavaScript/TypeScript, Angular, SQL, PostgreSQL, MySQL, SQL Server, Oracle, HTML and CSS.
 
 - 🔭 I’m currently working on a client project for <b>Infosys</b>
-- 📫 How to reach me: patrick.brennan.dev@gmail.com
+- 📫 How to reach me: patrickbrennan.dvlpr@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a 4 year old son and an 8 month old daughter, and they are the most adorable things on this planet.
+- ⚡ Fun fact: I have a 4 year old son and an 9 month old daughter, and they are the most adorable things on this planet.
 
 # Projects
 
